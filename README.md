@@ -1,2 +1,2 @@
 # Analog_IPs
-Analog IPs built in Virtuoso
+Analog IPs built in Cadence Virtuoso
